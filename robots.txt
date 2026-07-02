@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://augsburg.softwareentwickler.app/sitemap.xml
